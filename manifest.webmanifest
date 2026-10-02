@@ -1,0 +1,14 @@
+{
+  "name": "TU MARCA",
+  "short_name": "TU MARCA",
+  "description": "Tecnología, moda, hogar, ferretería y electricidad.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FF6600",
+  "lang": "es",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
