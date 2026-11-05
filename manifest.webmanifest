@@ -1,7 +1,7 @@
 {
-  "name": "TU MARCA",
-  "short_name": "TU MARCA",
-  "description": "Tecnología, moda, hogar, ferretería y electricidad.",
+  "name": "Jumila Importaciones",
+  "short_name": "Jumila",
+  "description": "Tecnología, moda, hogar y más. Tienda en Huánuco con envíos a todo el Perú.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
@@ -9,6 +9,7 @@
   "theme_color": "#FF6600",
   "lang": "es",
   "icons": [
-    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
   ]
 }
