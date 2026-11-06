@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin
+Disallow: /carrito
+Disallow: /checkout
+Disallow: /cuenta
+Disallow: /pedidos
+Disallow: /pedido/
+Disallow: /favoritos
+Disallow: /buscar
+
+Sitemap: https://jumilaimportaciones.com/sitemap.xml
